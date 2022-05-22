@@ -1,0 +1,18 @@
+{
+    "type":"minecraft:crafting_shaped",
+
+    "pattern": [
+        "MMM",
+        "MMM",
+        "MMM"
+    ],
+    "key":{
+        "M":{
+            "tag":"testmod:meats"
+        }
+    },
+    "result":{
+        "item":"testmod:block_of_meat",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "item.testmod.void_drop": "§5Void Drop",
+    "item.testmod.void_pickaxe": "§5Void Pickaxe",
+    "item.testmod.void_bucket": "§5Void Bucket",
+    "itemGroup.testmod": "Sus tab",
+    "block.testmod.example_block": "Block of Sus",
+    "block.testmod.block_of_meat": "§4Meat block",
+    "effect.testmod.erasure": "erasure",
+    "effect.testmod.erasure_helper": "erasure",
+
+    "death.attack.testmod_erased": "%1$s was erased from existence",
+    "death.attack.testmod_erased.player": "%2$s erased %1$s from existence"
+}
